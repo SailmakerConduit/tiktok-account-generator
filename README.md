@@ -8,6 +8,11 @@
   <img src="https://img.shields.io/badge/Type-Account+Generator-010101?style=for-the-badge&logo=tiktok" />
 </p>
 
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/tiktok/010101" width="64" height="64" />
+</p>
+
 **⚡ TikTok Account Generator Free** — automated bulk account creation tool for TikTok. Creates verified accounts at scale with randomised profiles. Download for 2026. **No limits. No hidden fees.**
 
 <p align="center">
